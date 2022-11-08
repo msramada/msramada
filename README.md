@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Mohammad Ramadan</h1>
 <h3 align="center">A PhD candidate at UC San Diego</h3>
 
-- I’m currently working on **State Selection for Model Predictive Control and Control Barrier Functions**
+- I’m currently working on **State Selection for Model Predictive Control and Control Barrier Functions**.
 
 - My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417)
 
-- Email: **msramada att ucsd dott edu**
+- Email: **msramada att ucsd dott edu**.
 
-- Outside of research, **I'm into music, and all sorts of movements: working out, yoga, calisthenics, jiu jitsu.**
+- Outside of research, **I'm into music, and all sorts of movements: working out, yoga, calisthenics, jiu jitsu**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
