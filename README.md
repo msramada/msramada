@@ -3,6 +3,8 @@
 
 - I’m currently working on **State Selection for Model Predictive Control and Control Barrier Functions**.
 
+- State Estimation for Control: an approach for stochastic MPC, is the title of the project I'm working on currently. A repo of it will be available soon.
+
 - My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417)
 
 - Email: **msramada att ucsd dott edu**.
