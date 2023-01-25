@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Mohammad Ramadan</h1>
 <h3 align="center">A PhD candidate at UC San Diego, defending in May, 2023</h3>
 
-- I’m currently working on **State Selection for Model Predictive Control and Control Barrier Functions**.
-
-- State Estimation for Control: an approach for stochastic MPC, is the title of the project I'm working on currently. A repo of it will be available soon.
+- I’m currently working on **State Estimation for Control: an approach for stochastic MPC**. To appear in Automatica.
 
 - My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417)
 
