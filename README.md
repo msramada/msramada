@@ -7,7 +7,7 @@
 
 - Email: **msramada att ucsd dott edu**.
 
-- Outside of research, **I'm into music, and all sorts of movements: working out, yoga, calisthenics, jiu jitsu**.
+- Outside of research, **I'm into music, and all sorts of movements: working out, yoga, calisthenics, brazillian jiu jitsu**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
