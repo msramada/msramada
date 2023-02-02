@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mohammad Ramadan</h1>
-<h3 align="center">A PhD candidate at UC San Diego, defending in May, 2023</h3>
+<h3 align="center">A PhD candidate at UC San Diego, defending in April, 2023</h3>
 
 - I'm currently working on using ideas from stochastic control theory to equip Reinforcement Learning with active learning and information gathering roles.
 
