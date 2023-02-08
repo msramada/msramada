@@ -3,7 +3,7 @@
 
 - I'm currently working on using ideas from stochastic control theory to equip Reinforcement Learning with active learning and information gathering roles.
 
-- I have recently submitted my paper **State Estimation for Control: an approach for stochastic MPC**. To appear in Automatica soon.
+- I have recently submitted my paper **State Estimation for Control: an approach to stochastic MPC**. To appear in Automatica soon.
 
 - My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417)
 
