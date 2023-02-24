@@ -5,7 +5,7 @@
 
 - I have recently submitted my paper **State Estimation for Control: an approach to stochastic MPC**. To appear in Automatica soon.
 
-- My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417)
+- My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417), you can find the code used in the paper here https://github.com/msramada/FixedPointEM_Algorithm.git.
 
 - Email: **msramada att ucsd dott edu**.
 
