@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Mohammad Ramadan</h1>
 <h3 align="center">A PhD candidate at UC San Diego, defending in April, 2023</h3>
 
-- I'm currently working on using ideas from stochastic control theory to equip Reinforcement Learning with ``a more guided'' active learning and information gathering roles. In a sense, this can be seen as ``learning RL to learn''.
+- I'm currently working on using ideas from stochastic control theory to equip Reinforcement Learning with a more guided active learning and information gathering roles. In a sense, this can be seen as learning RL to learn.
 
 - I have recently submitted my paper **State Estimation for Control: an approach to stochastic MPC**. To appear in Automatica soon. You can find the Python code, for both, the linear case and the nonlinear case, here https://github.com/msramada/StateSelectionAlgorithm.git.
 
