@@ -3,7 +3,7 @@
 
 - I'm currently working on using ideas from stochastic control theory to equip Reinforcement Learning with a more guided active learning and information gathering roles. In a sense, this can be seen as learning RL to learn.
 
-- I have recently submitted my paper **State Estimation for Control: an approach to stochastic MPC**. To appear in Automatica soon. You can find the Python code, for both, the linear case and the nonlinear case, here https://github.com/msramada/StateSelectionAlgorithm.git.
+- I have recently submitted my paper **State Estimation for Control: an approach to stochastic MPC**. Submitted to Automatica. You can find the preprint of this paper here https://arxiv.org/abs/2303.00873. The Python code, for both, the linear case and the nonlinear case, https://github.com/msramada/StateSelectionAlgorithm.git.
 
 - My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417). You can find the MATLAB code, used in generating the example in the paper, here https://github.com/msramada/FixedPointEM_Algorithm.git.
 
