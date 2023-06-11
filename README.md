@@ -7,7 +7,7 @@
 
 - My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417). You can find the MATLAB code, used in generating the example in the paper, here https://github.com/msramada/FixedPointEM_Algorithm.git.
 
-- A Python code for a Monte Carlo Dynamic Programming approach we developed can be found here: https://github.com/msramada/MC_DynamicProgramming.
+- A Python code for a Monte Carlo Dynamic Programming approach we developed can be found here:https://github.com/msramada/MonteCarlo_DynamicProgramming. This work is based on the following paper: https://arxiv.org/pdf/2303.06200. 
 
 - Email: **msramada att ucsd dott edu**.
 
