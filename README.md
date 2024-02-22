@@ -6,7 +6,7 @@ This is the last problem I've been working on. It aims at reformulating stochast
 #### Reinforcement Learning (RL) with active learning via stochastic optimal control
 We are using concepts from stochastic optimal control, in particular, caution and probing, to equip RL with active information gathering roles and hence continuous learning. See our paper [https://arxiv.org/abs/2309.10831](https://arxiv.org/abs/2309.10831).
 #### Output feedback control barrier function (CBF) algorithm using sampling approaches
-CBF technique is deterministic and full-state-feedback. The State Selection Algorithm we developed earlier, which is highly parallelizable, can handle uncertainties in the state and the dynamics. This provides the opportunity to build this algorithm over a CBF as an extra layer of protection. See our paper [https://arxiv.org/abs/2309.08767](https://arxiv.org/abs/2309.08767).
+We adapt CBF technique to stochastic systems with partial access to the states. Our algorithm, Control Importance Distribtion Algorithm, or CIDA, relies on a Monte-Carlo sampling approach to search to achieve a safe and a favorable performance over a prescribed finite-horizon cost. See our paper [https://arxiv.org/abs/2309.08767](https://arxiv.org/abs/2309.08767).
 
 ### Previous projects:
 #### State Estimation for Control: an approach to stochastic MPC (Submitted to Automatica). You can find the preprint of this paper here https://arxiv.org/abs/2303.00873. The Python code, for both, the linear case and the nonlinear case, https://github.com/msramada/StateSelectionAlgorithm.git.
