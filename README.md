@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mohammad Ramadan</h1>
-<h3 align="center">PhD in Control Theory and Estimation, UC San Diego, 2023</h3>
+<h3 align="center">Mathematics and Computer Science Division, Argonne National Laboratory</h3>
 
 ### Current project:
 #### Reinforcement Learning (RL) with active learning via stochastic optimal control
