@@ -1,15 +1,15 @@
 <h3 align="center">Mohammad is with the Mathematics and Computer Science Division, Argonne National Laboratory</h3>
 
 ### Current project:
+#### Linearizing uncertainties that matter for control: Koopman in the dual adaptive control context
+This is the last problem I've been working on. It aims at reformulating stochastic optimal control such that it turns into a simple LQR problem, under the employment of the Koopman operator. A link to this paper will be provided soon.
 #### Reinforcement Learning (RL) with active learning via stochastic optimal control
 We are using concepts from stochastic optimal control, in particular, caution and probing, to equip RL with active information gathering roles and hence continuous learning. See our paper [https://arxiv.org/abs/2309.10831](https://arxiv.org/abs/2309.10831).
 #### Output feedback control barrier function (CBF) algorithm using sampling approaches
-CBF technique is deterministic and full-state-feedback. The State Selection Algorithm we developed earlier, which is highly parallelizable, can handle uncertainties in the state and the dynamics. This provides the opportunity to build this algorithm over a CBF as an extra layer of protection.
-#### Iterative nonlinear system identification
-We are investigating the usage of the KL divergence to control the model learning rate in closed-loop settings.
+CBF technique is deterministic and full-state-feedback. The State Selection Algorithm we developed earlier, which is highly parallelizable, can handle uncertainties in the state and the dynamics. This provides the opportunity to build this algorithm over a CBF as an extra layer of protection. See our paper [https://arxiv.org/abs/2309.08767](https://arxiv.org/abs/2309.08767).
 
 ### Previous projects:
-#### State Estimation for Control: an approach to stochastic MPC. Submitted to Automatica. You can find the preprint of this paper here https://arxiv.org/abs/2303.00873. The Python code, for both, the linear case and the nonlinear case, https://github.com/msramada/StateSelectionAlgorithm.git.
+#### State Estimation for Control: an approach to stochastic MPC (Submitted to Automatica). You can find the preprint of this paper here https://arxiv.org/abs/2303.00873. The Python code, for both, the linear case and the nonlinear case, https://github.com/msramada/StateSelectionAlgorithm.git.
 
 #### My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417). You can find the MATLAB code, used in generating the example in the paper, here https://github.com/msramada/FixedPointEM_Algorithm.git.
 
