@@ -1,6 +1,6 @@
 <h3 align="center">Mohammad is with the Mathematics and Computer Science Division, Argonne National Laboratory.</h3>
 
-### Current project:
+### Current projects:
 #### Linearizing uncertainties that matter for control: Koopman in the dual adaptive control context
 This is the last problem I've been working on. It aims at reformulating stochastic optimal control such that it turns into a simple LQR problem, under the employment of the Koopman operator. A link to this paper will be provided soon.
 #### Reinforcement Learning (RL) with active learning via stochastic optimal control
