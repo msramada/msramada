@@ -1,4 +1,4 @@
-<h3 align="center">Mohammad is with the Mathematics and Computer Science Division, Argonne National Laboratory</h3>
+<h3 align="center">Mohammad is with the Mathematics and Computer Science Division, Argonne National Laboratory.</h3>
 
 ### Current project:
 #### Linearizing uncertainties that matter for control: Koopman in the dual adaptive control context
