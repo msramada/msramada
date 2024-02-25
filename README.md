@@ -1,25 +1,3 @@
-<h3 align="center">Mohammad is with the Mathematics and Computer Science Division, Argonne National Laboratory.</h3>
-
-### Current projects:
-#### Linearizing uncertainties that matter for control: Koopman in the dual adaptive control context
-This is the last problem I've been working on. It aims at reformulating stochastic optimal control such that it turns into a simple LQR problem, under the employment of the Koopman operator. A link to this paper will be provided soon.
-#### Reinforcement Learning (RL) with active learning via stochastic optimal control
-We are using concepts from stochastic optimal control, in particular, caution and probing, to equip RL with active information gathering roles and hence continuous learning. See our paper [https://arxiv.org/abs/2309.10831](https://arxiv.org/abs/2309.10831).
-#### Output feedback control barrier function (CBF) algorithm using sampling approaches
-We adapt CBF technique to stochastic systems with partial access to the states. Our algorithm, Control Importance Distribtion Algorithm, or CIDA, relies on a Monte-Carlo sampling approach to search to achieve a safe and a favorable performance over a prescribed finite-horizon cost. See our paper [https://arxiv.org/abs/2309.08767](https://arxiv.org/abs/2309.08767).
-
-### Previous projects:
-#### State Estimation for Control: an approach to stochastic MPC (Submitted to Automatica). You can find the preprint of this paper here https://arxiv.org/abs/2303.00873. The Python code, for both, the linear case and the nonlinear case, https://github.com/msramada/StateSelectionAlgorithm.git.
-
-#### My Maximum Likelihood recursive state estimator algorithm can be found here [https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417](https://www.sciencedirect.com/science/article/abs/pii/S0005109822003417). You can find the MATLAB code, used in generating the example in the paper, here https://github.com/msramada/FixedPointEM_Algorithm.git.
-
-#### A Python code for a Monte Carlo Dynamic Programming approach we developed can be found here:https://github.com/msramada/MonteCarlo_DynamicProgramming. This work is based on the following paper: https://arxiv.org/pdf/2303.06200. 
-
-### About me:
-- Email: **msramada att ucsd dott edu**.
-
-- Outside of research, **I'm into music, theory and production, and all sorts of movements: working out, yoga, calisthenics, wrestling and brazillian jiu jitsu**.
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/msramada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msramada" height="30" width="40" /></a>
