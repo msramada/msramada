@@ -1,7 +1,6 @@
 <h3 align="left">Personal webpage:</h3>
 https://msramada.github.io
 <h3 align="left">Let's connect on social media:</h3>
-Personal webpage: https://msramada.github.io, or on social media:
 <p align="left">
 <a href="https://instagram.com/msramada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="msramada" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@msramada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@msramada" height="30" width="40" /></a>
