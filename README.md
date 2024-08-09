@@ -1,4 +1,4 @@
-Personal webpage: [https://msramada.notion.site/](https://msramada.notion.site/)
+Personal webpage: [https://msramada.github.io/](https://msramada.github.io/)
 
 Let's connect on social media: 
 <p align="left">
